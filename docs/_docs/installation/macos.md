@@ -76,7 +76,8 @@ brew install rbenv
 rbenv init
 
 # Check your installation
-curl -fsSL https://github.com/rbenv/rbenv-installer/raw/master/bin/rbenv-doctor | bash
+curl -fsSL https://github.com/rbenv/rbenv-installer/raw/HEAD/bin/rbenv-doctor | bash
+
 ```
 
 Restart your terminal to apply your changes.
